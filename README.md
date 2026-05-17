@@ -2,7 +2,7 @@
 
 Postdoctoral researcher and university lecturer at AmsterdamUMC.
 
-Use-case leader at [PHEMS.eu](https://phems.eu/) & ErasmusMC.
+Use-case leader at [PHEMS.eu](https://phems.eu/).
 
 AI scientist at [THETA-TEAM](https://www.thetateam.net).
 
