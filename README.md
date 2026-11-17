@@ -6,5 +6,5 @@ AI scientist at [THETA-TEAM](https://www.thetateam.net).
 
 Previously: Use-case leader at [PHEMS.eu](https://phems.eu/).
 
-- Things I use often: `julia`, `pytorch`, `bindcraft`, `vs-code`, `chimeraX`, `inkscape`.
+- Things I use often: `julia`, `pytorch`, `alphafold`, `boltz2`, `bindcraft`, `vs-code`, `chimeraX`, `inkscape`.
 - Maintainer of [opticlot.com](https://opticlot.nl/), web-application supporting personalised treatment of patients with rare bleeding disorders worldwide.
